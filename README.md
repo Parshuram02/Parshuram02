@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshuram02" alt="parshuram02" /></a> </p>
 
-- 🔭 I’m currently working on [SHEield](https://github.com/Rish1369/SHEield)
+- 🔭 I’m currently working on [Axiom math ai]([https://github.com/Parshuram02/Axiom-math-ai])
 
 - 📫 How to reach me **prashant24816gp@gmail.com**
 
