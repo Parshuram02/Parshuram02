@@ -11,7 +11,7 @@
   <a href="mailto:prashant24816gp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/Prashant_Singh">
+  <a href="https://www.linkedin.com/in/prashant-singh-62301827b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://drive.google.com/drive/folders/1Owek2Vs3-raw8IcqS_XL7nWuMI9ZnY0U?usp=drive_link">
